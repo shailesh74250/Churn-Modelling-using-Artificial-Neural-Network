@@ -1,0 +1,19 @@
+Deep learning is used for many of our demanding and highly compute intensive tasks like for example - computer vision, medicine, autonomous vehicle, etc.
+
+deep learning can also use for making predictions, classification for business problems.
+
+we use deep Boltzmann machines for recommended system
+
+The GPU is a much better choice for neural networks especially when you're building deep neural networks to do deep learning but for simple neural networks you can still use your cpu.	
+
+Teano and Tensorflow both library are used mostly for research purposes.
+from these two libraries we build a deep neural network from scratch that is with many lines of code.
+
+that is why in this section we are not going to use directly teano and tensorflow, so we are going to use another library called keras that's in some way wraps the two libraries here.
+
+with the help of keras library we can build neural network in very few lines of codes.just like we use scikit learn for machine learning model.
+
+Bank Churn prediction basis on independent variable here we have - customerid, surname, creditscore, geography, gender,age, tenure, balance, numofproducts, hascrcard, isactivememeber, estimatedsalary,exited.
+
+each row present customer data here we have 10,000 row means 10,000 bank customer data.
+
